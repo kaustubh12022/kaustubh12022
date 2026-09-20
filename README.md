@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Kaustubh 👋
+# Hi there, I'm Kaustubh Kale 👋
 ### Full-Stack Developer & Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaustubh12022)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaustubh@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaustubhkale.sknsits.it@gmail.com)
 
 <br/>
 
@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Full-Stack Developer** passionate about building modern web applications, scalable APIs, and automation tools.
-- 🛠️ Proficient in **MERN Stack** (MongoDB, Express, React, Node.js), **JavaScript / TypeScript**, and **Python**.
-- 🔭 Working on exciting projects like **[JobHunt-Automation](https://github.com/kaustubh12022/JobHunt-Automation)** and **[DogStream-API](https://github.com/kaustubh12022/DogStream-API)**.
-- 🎯 Focused on clean code, intuitive UI/UX, and robust backend architectures.
-- 💬 Ask me about: **React, Node.js, REST APIs, Database Design, and Full-Stack Development**.
+- 🚀 **Full-Stack Developer** passionate about crafting scalable web applications, RESTful APIs, and intelligent automation systems.
+- 🛠️ Extensive experience with the **MERN Stack** (MongoDB, Express.js, React, Node.js), **JavaScript (ES6+) / TypeScript**, and **Python**.
+- 🔭 Actively developing projects including **[JobHunt-Automation](https://github.com/kaustubh12022/JobHunt-Automation)**, **[DogStream-API](https://github.com/kaustubh12022/DogStream-API)**, and **[spotify-clone](https://github.com/kaustubh12022/spotify-clone)**.
+- 🎯 Strong focus on clean architecture, responsive user interfaces, and robust backend engineering.
+- 💬 Open to discussing: **React, Node.js, REST APIs, Database Optimization, and Full-Stack Engineering**.
 
 ---
 
@@ -80,7 +80,7 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh12022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaustubh12022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="Kaustubh's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh12022&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </div>
 
@@ -102,5 +102,5 @@
 ---
 
 <div align="center">
-  <sub>⭐️ Star my repositories if you find them interesting • Connect with me on <a href="https://linkedin.com">LinkedIn</a></sub>
+  <sub>⭐️ Star my repositories if you find them helpful • Connect with me on <a href="mailto:kaustubhkale.sknsits.it@gmail.com">Email</a> or <a href="https://linkedin.com">LinkedIn</a></sub>
 </div>
